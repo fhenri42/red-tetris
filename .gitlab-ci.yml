@@ -1,0 +1,12 @@
+image: node:6.0.0
+
+services:
+    - postgres:9.5.0
+
+test:
+    script:
+        - npm install
+        - npm test
+    only:
+        - master
+
