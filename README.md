@@ -1,3 +1,3 @@
 # red-tetris
 
-*A on-line Tetris game in React.JS
+* A on-line Tetris game in React.JS
